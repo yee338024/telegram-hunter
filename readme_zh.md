@@ -38,12 +38,12 @@
 ---
 
 ##   使用教程
-1. 从 [my.telegram.org](https://my.telegram.org) 获取 API ID 和 API Hash。  
+1. 先到 [my.telegram.org](https://my.telegram.org) 获取 API ID 和 API Hash。  
 登录 my.telegram.org，进入 API 开发工具，创建一个新应用程序。
 ![API 控制台](screenshot/api_develop_tools.png)
 获取你的 API ID 和 API Hash。
 ![API 控制台](screenshot/api.png)
-2. 使用你的手机号码登录并输入收到的验证码。
+2. 填写从控制台获取到的`API ID`和`API HASH`，还有你的手机号码登录并输入收到的验证码，（手机号记得加上区号,例如+86）
 ![登录](screenshot/login.png)
 3. 添加监听关键词监听即可
 ![添加监听器](screenshot/add_listener.png)
