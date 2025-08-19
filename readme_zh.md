@@ -45,5 +45,8 @@
 ![API 控制台](screenshot/api.png)
 2. 填写从控制台获取到的`API ID`和`API HASH`，还有你的手机号码登录并输入收到的验证码，（手机号记得加上区号,例如+86）
 ![登录](screenshot/login.png)
+
+如果是中国大陆地区的用户需要设置下代理，代理服务器和端口，需要根据代理软件设置来填写，如果开启了全局代理，可以跳过该步骤。
+![设置代理](screenshot/set_proxy.png)
 3. 添加监听关键词监听即可
 ![添加监听器](screenshot/add_listener.png)
