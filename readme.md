@@ -37,17 +37,6 @@ It listens to group and channel messages, detects **keywords** you care about, a
 
 ---
 
-## 📦 Installation
 
-##   Usage
-1. Get API ID and API Hash from [my.telegram.org](https://my.telegram.org).  
-Login to my.telegram.org, go to API Development Tools, and create a new application.
-![API Console](screenshot/api_develop_tools.png)
-Get your API ID and API Hash.
-![API Console](screenshot/api.png)
-2. Login with your phone number and enter the code you receive.
-![Login](screenshot/login.png)
-3. Add Listener. 
-![Add Listener](screenshot/add_listener.png)
 
    

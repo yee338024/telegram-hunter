@@ -1,0 +1,11 @@
+{
+  "fileMap": [
+    {
+      "src": "./.vitepress/dist/",
+      "dest": "/www/wwwroot/facai365.vip/hunter/"
+    }
+  ],
+  "ftpConfig": {
+    "host": ["itime-global"]
+  }
+}
