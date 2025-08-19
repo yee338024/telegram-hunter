@@ -50,7 +50,4 @@ Get your API ID and API Hash.
 3. Add Listener. 
 ![Add Listener](screenshot/add_listener.png)
 
-
-## Contact
-
-Telegram: [@code_ls](https://t.me/code_ls)
+   

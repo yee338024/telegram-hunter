@@ -1,0 +1,49 @@
+# Telegram Hunter
+
+<div align="center">
+<img src="screenshot/logo.png" style="width:50px"/>
+</div>
+
+**Telegram Hunter** 是一款监听工具，帮助你在 Telegram 上捕捉潜在客户。
+它会监听群组和频道消息，检测你添加的**关键词**，并即时通知你，让你更容易发现和联系新线索。
+
+![Telegram Hunter 截图](screenshot/telegram-hunter.png)
+---
+
+## 🚀 主要功能
+
+- **关键词监控**  
+  自定义关键词，系统自动扫描 Telegram 消息。
+
+- **实时提醒**  
+  当有人提及与你业务相关的话题时，立即收到通知。
+
+- **线索生成**  
+  根据群组和频道的对话识别潜在客户。
+
+- **灵活配置**  
+  可随时添加、编辑或删除关键词，适应你的营销策略。
+
+- **简单轻量**  
+  易于设置，无需复杂技术。
+
+---
+
+## 🎯 应用场景
+
+- **销售与营销** – 通过追踪行业关键词发现潜在买家。
+- **社区管理** – 监控群组讨论，快速与成员互动。
+- **调研与趋势** – 跟踪产品、品牌或竞争对手相关话题。
+
+---
+
+##   使用教程
+1. 从 [my.telegram.org](https://my.telegram.org) 获取 API ID 和 API Hash。  
+登录 my.telegram.org，进入 API 开发工具，创建一个新应用程序。
+![API 控制台](screenshot/api_develop_tools.png)
+获取你的 API ID 和 API Hash。
+![API 控制台](screenshot/api.png)
+2. 使用你的手机号码登录并输入收到的验证码。
+![登录](screenshot/login.png)
+3. 添加监听关键词监听即可
+![添加监听器](screenshot/add_listener.png)
