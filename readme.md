@@ -8,6 +8,8 @@
 It listens to group and channel messages, detects **keywords** you care about, and notifies you instantly — making it easier to discover and connect with new leads.
 
 ![Telegram Hunter Screenshot](docs/screenshot/telegram-hunter.png)
+
+![Telegram Hunter Screenshot](docs/screenshot/alert.png)
 ---
 
 ## 🚀 Key Features

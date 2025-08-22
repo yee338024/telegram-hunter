@@ -8,6 +8,9 @@
 它会监听群组和频道消息，检测你添加的**关键词**，并即时通知你，让你更容易发现和联系新线索。
 
 ![Telegram Hunter 截图](docs/screenshot/telegram-hunter.png)
+
+![Telegram Hunter Screenshot](docs/screenshot/alert.png)
+
 ---
 
 ## 🚀 主要功能
