@@ -18,46 +18,25 @@ easier to discover and connect with new leads.
 </a>
 </p>
 
-### Keyword Monitor
+## 🚀 Key Features  
 
+### Keyword Monitor  
+
+Define custom keywords and let the system automatically scan Telegram messages.
 ![Telegram Hunter Screenshot](docs/screenshot/telegram-hunter.png)
 
-### Message Forwarding
-
+### Message Forwarding  
+Forward important messages to your designated chat or group automatically.
 ![Telegram Hunter Screenshot](docs/screenshot/alert.png)
 
-### Channel Finder
+### Group & Channel Finder  
+Automatically collects Group & Channel information from user messages or profiles, making it easier to discover,
+organize, and manage target groups for your business or community.
 
-![a](./docs/screenshot/channel_finder.png)
+![Channel Finder](./docs/screenshot/channel_finder.png)
 ---
 
-## 🚀 Key Features
-
-- **Keyword Monitoring**  
-  Define custom keywords and let the system automatically scan Telegram messages.
-
-- **Real-Time Alerts**  
-  Get instant notifications when someone mentions topics relevant to your business.
-
-- **Lead Generation**  
-  Identify potential customers based on conversations in groups and channels.
-
-- **Flexible Configuration**  
-  Add, edit, or remove keywords anytime to fit your marketing strategy.
-
-- **Simple & Lightweight**  
-  Easy to set up, no complex technical skills required.
-
-- **Message Forwarding**  
-  Forward important messages to your designated chat or group automatically.
-
-- **Group & Channel Finder**  
-  Automatically collects Group & Channel information from user messages or profiles, making it easier to discover,
-  organize, and manage target groups for your business or community.
-
----
-
-## 🎯 Use Cases
+## 🎯 Use Cases  
 
 - **Sales & Marketing** – Discover potential buyers by tracking industry keywords.
 - **Community Management** – Monitor group discussions to engage with members faster.
